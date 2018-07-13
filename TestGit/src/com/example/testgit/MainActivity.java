@@ -16,7 +16,7 @@ public class MainActivity extends Activity {
     }
 
     private void init()
-    {
+    { 
     	System.out.println("初始化活动");
     }
     /**
