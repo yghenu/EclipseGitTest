@@ -17,10 +17,10 @@ public class MainActivity extends Activity {
 
     private void init()
     { 
-    	System.out.println("³õÊ¼»¯»î¶¯");
+    	System.out.println("åˆå§‹åŒ–");
     }
     /**
-     * ´´½¨²Ëµ¥
+     * åˆ›å»ºèœå•
      */
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
