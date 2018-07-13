@@ -17,8 +17,11 @@ public class MainActivity extends Activity {
 
     private void init()
     {
-    	System.out.println();
+    	System.out.println("初始化活动");
     }
+    /**
+     * 创建菜单
+     */
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
